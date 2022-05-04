@@ -22,6 +22,7 @@ class Point:
     #     return (self.x, self.y)
 
 
+    
 pr = Point(4, 6)  # сначала создать
 print(pr)
 # print(pr.__dict__)              #проверяем значения
